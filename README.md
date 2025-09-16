@@ -4,6 +4,7 @@
 관광지 추천, 날씨 확인, 여행 일정 관리, 채팅방을 통한 동행자 모집 등 다양한 기능을 제공합니다.
 
 ---
+<img width="1440" height="833" alt="부산여행 이미지" src="https://github.com/user-attachments/assets/7c205d5a-f7e0-4fd9-ba2d-96ebac9ce3a9" />
 ![Uploading 부산여행 이미지.png…]()
 
 
