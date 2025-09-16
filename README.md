@@ -5,7 +5,7 @@
 
 ---
 <img width="1440" height="833" alt="부산여행 이미지" src="https://github.com/user-attachments/assets/7c205d5a-f7e0-4fd9-ba2d-96ebac9ce3a9" />
-![Uploading 부산여행 이미지.png…]()
+
 
 
 ## 🛠 기술 스택
@@ -24,7 +24,6 @@
 - 이미지 카드 뷰를 통한 직관적 탐색
 - 상세 주소 및 위치 정보 제공
 
-![관광지 화면](./images/busantravel_main.png)
 
 ---
 
@@ -33,7 +32,6 @@
 - 여행 동행자 모집 및 정보 공유
 - 사용자가 원하는 채팅방 직접 생성 가능
 
-![채팅방 화면](./images/busantravel_chat.png)
 
 ---
 
@@ -42,7 +40,6 @@
 - 장소 타입(카페, 음식점, 바 등) 필터 선택 가능
 - 주변 위치 기반 추천
 
-![지도 화면](./images/busantravel_map.png)
 
 ---
 
@@ -60,5 +57,3 @@
 - 날씨 API 연동 및 UI 표시
 
 ---
-
-## 📂 프로젝트 구조
